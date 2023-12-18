@@ -5,7 +5,7 @@
 <img src="./Images/logo_2..jpg" alt="logo-image" width="370" height="370">
 <br>
 
-# 📝Descripción
+## 📝Descripción
 
 ## Se migra un proyecto existente (https://github.com/HelenaDR84/P2-Prueba-Tecnica-Replica-web) a React. <br>
 Esta migración no es sólo un cambio técnico, sino una oportunidad para mejorar la experiencia del usuario y facilitar el mantenimiento del código. Aunque me enfrento a desafíos, me gustan las oportunidades y ventajas que React ofrece:<br>
@@ -24,7 +24,7 @@ Puedes instalarte fácilmente este proyecto, clonando este repositorio: https://
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,github,vscode)](https://skillicons.dev)
 
-# React + Vite
+ ## React + Vite
 
 Esta plantilla proporciona una configuración mínima para que React funcione en Vite con HMR y algunas reglas de ESLint.<br>
 
