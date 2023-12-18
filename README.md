@@ -7,7 +7,8 @@
 
 # 📝Descripción
 
-## Se migra un proyecto existente (https://github.com/HelenaDR84/P2-Prueba-Tecnica-Replica-web) a React. Esta migración no es sólo un cambio técnico, sino una oportunidad para mejorar la experiencia del usuario y facilitar el mantenimiento del código. Aunque me enfrento a desafíos, me gusta las oportunidades y ventajas que React ofrece:
+## Se migra un proyecto existente (https://github.com/HelenaDR84/P2-Prueba-Tecnica-Replica-web) a React. 
+Esta migración no es sólo un cambio técnico, sino una oportunidad para mejorar la experiencia del usuario y facilitar el mantenimiento del código. Aunque me enfrento a desafíos, me gusta las oportunidades y ventajas que React ofrece:
 
 Componentes reutilizables: React se basa en componentes que son reutilizables y combinables, lo que nos permite escribir código más limpio y mantenible.
 Actualizaciones eficientes del DOM: React utiliza un DOM virtual que optimiza la renderización de la página, mejorando el rendimiento de la aplicación.
